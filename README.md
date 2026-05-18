@@ -16,6 +16,4 @@ Program Python untuk mencari keyword sensitive pada file log lalu mengubah hasil
 - json
 
 ## Cara menjalankan 
-
-'''bash
 python3 extractor.py file.log
